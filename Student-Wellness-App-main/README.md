@@ -33,3 +33,9 @@ A Streamlit app for analyzing student journal entries and tracking wellness
 
 ## 🚀 Quick Start
 
+
+├── .streamlit/          # Streamlit configuration
+├── data/                # Local storage for feedback (CSV)
+├── app_py.py            # Main application logic
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
