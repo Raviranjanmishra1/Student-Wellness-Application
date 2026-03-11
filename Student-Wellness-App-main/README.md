@@ -33,7 +33,3 @@ A Streamlit app for analyzing student journal entries and tracking wellness
 
 ## 🚀 Quick Start
 
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/Student-Wellness-app.git](https://github.com/YOUR_USERNAME/Student-Wellness-app.git)
-cd Student-Wellness-app
