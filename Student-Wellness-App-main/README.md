@@ -32,7 +32,7 @@ A Streamlit app for analyzing student journal entries and tracking wellness
 ---
 
 ## 🚀 Quick Start
-
+link  http://localhost:8501/
 
 ├── .streamlit/          # Streamlit configuration
 ├── data/                # Local storage for feedback (CSV)
